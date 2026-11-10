@@ -111,6 +111,21 @@ Contrôles : 390 px sans débordement, contraste AA, focus visible, animations c
 Écarts assumés : surtitre unique sur la section presse (convention des pages presse)
 ```
 
+## Retours de terrain (ajout du 10/11/2026)
+
+Leçons tirées de plusieurs sites livrés entre août et novembre 2026. Sources : comptes rendus de livraison internes, datés.
+
+- Passer par Claude Design pour tout design (site, page, logo, gabarit de vidéo), dans le même projet pour la suite d'un chantier, avec une nouvelle discussion par tour (02/11). Quand Claude Design est indisponible, écrire un brief complet et réutiliser la mise en page existante plutôt que coder un design neuf (08/11).
+- Demander à Claude Design d'aller jusqu'au dernier écran sans s'arrêter entre les lots ; les retours de goût viennent ensuite comme des retouches (02/11).
+- Page de maquette : une seule variante animée à la fois, pour rester lisible sur un ordinateur ordinaire (02/11).
+- Les messages d'erreur gardent leur forme et un signe en plus de la couleur, pour ne pas se confondre avec le rouge d'ambiance. Un message d'erreur dit aussi quoi faire ensuite (10/11).
+- Polices d'un modèle tiers : n'afficher que si elles arrivent tout de suite, sinon garder la police de secours, sans quoi la page saute au chargement. Crédit de licence du modèle visible même quand la mention de la marque est retirée (03/11).
+- Symboles et icônes : petite police de secours embarquée plutôt qu'icônes redessinées une à une, avec un contrôle automatique qui bloque tout caractère manquant (08/11).
+- Images : jamais deux fois la même sur une page ; si le métier est inconnu, photos neutres, jamais celles d'un métier deviné ; la vraie photo du commerce prend la première place (10/11).
+- Seuils de contrôle proposés avant livraison : vitesse 85, accessibilité 95, bonnes pratiques 95, référencement 95, zéro erreur d'accessibilité grave (03/11).
+- Les défauts trouvés par l'audit restent signalés chaque semaine tant qu'ils ne sont pas corrigés : pas de liste d'exceptions qui les masque (10/11).
+- Vérifier visuellement (navigateur sans écran) avant de dire qu'une correction marche (mémoire du 10/08/2026).
+
 ## 8. Installation
 
 - Personnelle : copier ce dossier dans `~/.claude/skills/site-web-sans-look-ia/`.

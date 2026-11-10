@@ -2,6 +2,10 @@
 
 Le versionnement suit [SemVer](https://semver.org/lang/fr/).
 
+## 2.1.0 - 2026-11-10
+
+- Ajout de la section « Retours de terrain » (Claude Design, images, erreurs, seuils de contrôle), avec dates.
+
 ## 2.0.0 - 2026-10-16
 
 - Mise à jour d'octobre 2026 de l'ensemble des règles.
